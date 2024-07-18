@@ -1,0 +1,6 @@
+bs4
+requests
+lxml
+selenium
+urllib3
+pandas
